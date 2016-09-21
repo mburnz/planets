@@ -1,3 +1,4 @@
-#ignore
+#ignore the following files, with the exception of the one after hte exclamation point. The exclusion has to go AFTER the pattern for which it is an exclusion
 *.dat
 results/
+!a.dat
